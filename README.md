@@ -37,6 +37,17 @@ npm run storybook
 After a few seconds, our storybook should be accessible at the address
 [http://localhost:6006/](http://localhost:6006/)
 
+Folder Structure
+src/ - Contains the main React code for the project.
+styles/ - CSS or styling related files.
+[Other folders and files]
+
+Deployment
+The project is deployed using Vercel.
+
+Contributing
+Contributions are welcome! If you find a bug or have suggestions for improvements, please feel free to open an issue or create a pull request.
+
 We can build our storybook for release with:
 
 ```
