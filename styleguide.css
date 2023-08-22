@@ -1,0 +1,10 @@
+:root {
+  --cash-app-green: rgba(0, 213, 75, 1);
+  --hero-text-font-family: "Agrandir-WideHeavy", Helvetica;
+  --hero-text-font-size: 12px;
+  --hero-text-font-style: normal;
+  --hero-text-font-weight: 400;
+  --hero-text-letter-spacing: 0.5px;
+  --hero-text-line-height: 18px;
+  --light-white: rgba(255, 255, 255, 1);
+}
