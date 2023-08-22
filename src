@@ -1,9 +1,3 @@
 screens
-.babelrc.json
-.gitignore
-.parcelrc
-README.md
-index.html
-package.json
-styleguide.css
+index.jsx
 
